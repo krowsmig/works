@@ -1682,21 +1682,17 @@ span.logo {
         opacity: 1;
         background-position-x: -300px;
     }
-
     13% {
-        background-position-x: left;
-        opacity: 1;
+        opacity: 1;  
     }
-
     10% {
         background-position-x: left;
         opacity: 0;
     }
-
     0% {
         opacity: 0;
         background-position-x: left;
-    }
+    } 
 }
 
 #content_3.show_now .play_img span.img_sound_bg_1_1 {
